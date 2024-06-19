@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fa16e28-0e07-4b51-a7bb-6e64e2a742cb" name="Changes" comment="Summarize v1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="1fa16e28-0e07-4b51-a7bb-6e64e2a742cb" name="Changes" comment="Summarize v2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +103,7 @@
       <workItem from="1718711929961" duration="10324000" />
       <workItem from="1718722617879" duration="47000" />
       <workItem from="1718722676469" duration="4591000" />
-      <workItem from="1718782748641" duration="2044000" />
+      <workItem from="1718782748641" duration="2416000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -148,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718724207117</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Summarize v2">
+      <option name="closed" value="true" />
+      <created>1718785059457</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718785059457</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +185,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="Summarize v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Summarize v1" />
+    <MESSAGE value="Summarize v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Summarize v2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SummarizeText$main.coverage" NAME="main Coverage Results" MODIFIED="1718719922932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

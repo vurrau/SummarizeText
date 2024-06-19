@@ -14,7 +14,7 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 ```
 ### 2. Install dependencies:
 ```
-pip install fastapi uvicorn transformers torch
+pip install langchain langchain-huggingface transformers huggingface_hub
 ```
 ### 3. Run the application:
 ```
