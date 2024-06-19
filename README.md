@@ -1,6 +1,6 @@
 # SummarizeText API
 
-This project provides a FastAPI endpoint for summarizing text using the AI by Hugging Face library.
+FastAPI application uses LangChain and HuggingFacePipeline to summarize text.
 
 ## Setup
 
